@@ -12,9 +12,6 @@
 </div>
 
 <div align="center">
-  <a href="https://x.com/bookbag">
-    <img src="https://img.shields.io/badge/bookbag-000000?style=for-the-badge&logo=x&logoColor=white" alt="bookbag on X"/>
-  </a>
   <a href="https://x.com/shek_dev">
     <img src="https://img.shields.io/badge/follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
   </a>
